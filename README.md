@@ -1,0 +1,2 @@
+# ESP32S3ZERO_for_Dynamixal_PCB
+纯纯PCB使用S3驱动Dynamixal
